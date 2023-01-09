@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "/Users/dmitrijdenisov/My-code/index.html"
+            "file": "/Users/dmitrijdenisov/My-code/login-page.html"
         }
     ]
 }
